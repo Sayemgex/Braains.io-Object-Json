@@ -10,6 +10,13 @@
     "Crossbow": "https://i.postimg.cc/vHTK4NWP/Crossbow.png"
   },
   "units": {
-    "MyUnit": "https://i.postimg.cc/FKjTztLV/human.png"
+    "MyUnit": "https://i.postimg.cc/FKjTztLV/human.png",
+    "Shopkeeper": "https://i.postimg.cc/FssRMJYL/Shopkeeper.png",
+    "Wizard": "https://i.postimg.cc/V64kHYWw/Wizard.png",
+    "Human": "https://i.postimg.cc/FKjTztLV/human.png",
+    "Sick": "https://i.postimg.cc/9f3xcXrf/sick.png",
+    "Zombie": "https://i.postimg.cc/Vk0Gy0sT/normal-zombie.png",
+    "Zombie King": "https://i.postimg.cc/4NSLFQGV/zombie-king.png",
+    "Mutated Zombie": "https://i.postimg.cc/ydsvSfh4/tonic-zombie.png"
   }
 }
