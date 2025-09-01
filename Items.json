@@ -8,5 +8,8 @@
     "Lawn Mower": "https://i.postimg.cc/fy2gHchj/Lawn-Mower.png",
     "Remote Controller": "https://i.postimg.cc/cH9QPZFw/Remote-Controller.png",
     "Crossbow": "https://i.postimg.cc/vHTK4NWP/Crossbow.png"
+  },
+  "units": {
+    "MyUnit": "https://i.postimg.cc/FKjTztLV/human.png"
   }
 }
