@@ -44,7 +44,7 @@
     "Baseball Bat": {
       "icon": "https://i.postimg.cc/bwnzVLsY/Baseball-Bat.png",
       "width": 8,
-      "height": 12,
+      "height": 12
     },
     "Big Point Item": {
       "icon": "https://i.postimg.cc/c42xcP15/Big-Point-Item.png",
@@ -59,17 +59,17 @@
     "Blowdart": {
       "icon": "https://i.postimg.cc/h4CPXfkn/Blow-Dart.png",
       "width": 8,
-      "height": 12,
+      "height": 12
     },
     "Broom": {
       "icon": "https://i.postimg.cc/yxrVtbmx/Broom.png",
       "width": 10,
-      "height": 12,
+      "height": 12
     },
     "Crowbar": {
       "icon": "https://i.postimg.cc/C5Khvgf9/Crowbar.png",
       "width": 8,
-      "height": 12,
+      "height": 12
     },
     "Cupid's Bow": {
       "icon": "https://i.postimg.cc/HxzW4xjQ/Cupid-s-Bow.png",
@@ -124,7 +124,7 @@
     "Katana": {
       "icon": "https://i.postimg.cc/mDshyJjG/Katana.png",
       "width": 8,
-      "height": 12,
+      "height": 12
     },
     "Mod Hammer": {
       "icon": "https://i.postimg.cc/pd8p8RDZ/Mod-Hammer.png",
@@ -134,7 +134,7 @@
     "Mystic Crowbar": {
       "icon": "https://i.postimg.cc/bw4Zss2r/Mystic-Crowbar.png",
       "width": 8,
-      "height": 12,
+      "height": 12
     },
     "Pill": {
       "icon": "https://i.postimg.cc/kX16PjJx/Pill.png",
@@ -149,7 +149,7 @@
     "Rare Ancient Spear": {
       "icon": "https://i.postimg.cc/4NN7MCgf/Rare-Ancient-Spear.png",
       "width": 10,
-      "height": 20,
+      "height": 20
     },
     "Rare Swordfish": {
       "icon": "https://i.postimg.cc/L4VgN9GQ/Rare-Swordfish.png",
@@ -169,7 +169,7 @@
     "Spear": {
       "icon": "https://i.postimg.cc/TwV58f1w/Spear.png",
       "width": 5,
-      "height": 16,
+      "height": 16
     },
     "Stacked Dynamite": {
       "icon": "https://i.postimg.cc/JhBBqbWj/Stacked-Dynamite.png",
@@ -179,7 +179,7 @@
     "Stick": {
       "icon": "https://i.postimg.cc/NMq2P5gS/Stick.png",
       "width": 7,
-      "height": 10,
+      "height": 10
     },
     "Swordfish": {
       "icon": "https://i.postimg.cc/nhrmXyRR/Swordfish.png",
