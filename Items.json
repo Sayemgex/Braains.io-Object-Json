@@ -1,52 +1,245 @@
 {
   "specialItems": {
-    "Modd-coin": "https://i.postimg.cc/sxMpr8L8/Modd-coin.png",
-    "Mystic Crystal": "https://i.postimg.cc/gJ5j70zY/gem.png",
-    "Dark Shield": "https://i.postimg.cc/Wph5Cpmx/Dark-Shield.png",
-    "Wings": "https://i.postimg.cc/F1XR9nk8/Wings.png",
-    "Wings Flying": "https://i.postimg.cc/F1XR9nk8/Wings.png",
-    "Lawn Mower": "https://i.postimg.cc/fy2gHchj/Lawn-Mower.png",
-    "Remote Controller": "https://i.postimg.cc/cH9QPZFw/Remote-Controller.png",
-    "Crossbow": "https://i.postimg.cc/vHTK4NWP/Crossbow.png",
-    "Baseball Bat": "https://i.postimg.cc/bwnzVLsY/Baseball-Bat.png",
-    "Big Point Item": "https://i.postimg.cc/c42xcP15/Big-Point-Item.png",
-    "Blood Staff": "https://i.postimg.cc/tCYRW9bx/Blood-Staff.png",
-    "Blowdart": "https://i.postimg.cc/h4CPXfkn/Blow-Dart.png",
-    "Broom": "https://i.postimg.cc/yxrVtbmx/Broom.png",
-    "Crowbar": "https://i.postimg.cc/C5Khvgf9/Crowbar.png",
-    "Cupid's Bow": "https://i.postimg.cc/HxzW4xjQ/Cupid-s-Bow.png",
-    "Dev Drumstick": "https://i.postimg.cc/B64QKDZS/Dev-Drumstick.png",
-    "Drumstick": "https://i.postimg.cc/Zqr5njSs/Drumstick.png",
-    "Dynamite": "https://i.postimg.cc/XYBJS4Db/Dynamite.png",
-    "Fart Gun": "https://i.postimg.cc/wTGvG722/Fart-Gun.png",
-    "Free Point Item": "https://i.postimg.cc/qMRqw8sg/Free-Point-Item.png",
-    "Glock": "https://i.postimg.cc/gc4r3M6f/Glock.png",
-    "Golden Drumstick": "https://i.postimg.cc/3NLR7RTK/Golden-Drumstick.png",
-    "Grenade": "https://i.postimg.cc/T12wZbB7/Grenade.png",
-    "Hot Potato Gun": "https://i.postimg.cc/63fqjcb4/Hot-Potato-Gun.png",
-    "Katana": "https://i.postimg.cc/mDshyJjG/Katana.png",
-    "Mod Hammer": "https://i.postimg.cc/pd8p8RDZ/Mod-Hammer.png",
-    "Mystic Crowbar": "https://i.postimg.cc/bw4Zss2r/Mystic-Crowbar.png",
-    "Pill": "https://i.postimg.cc/kX16PjJx/Pill.png",
-    "Potato Gun": "https://i.postimg.cc/2S1qk4yg/Potato-Gun.png",
-    "Rare Ancient Spear": "https://i.postimg.cc/4NN7MCgf/Rare-Ancient-Spear.png",
-    "Rare Swordfish": "https://i.postimg.cc/L4VgN9GQ/Rare-Swordfish.png",
-    "Shotgun": "https://i.postimg.cc/d3JkwpZ9/Shotgun.png",
-    "SLAP": "https://i.postimg.cc/RhG3Fdcx/SLAP.png",
-    "Spear": "https://i.postimg.cc/TwV58f1w/Spear.png",
-    "Stacked Dynamite": "https://i.postimg.cc/JhBBqbWj/Stacked-Dynamite.png",
-    "Stick": "https://i.postimg.cc/NMq2P5gS/Stick.png",
-    "Swordfish": "https://i.postimg.cc/nhrmXyRR/Swordfish.png",
-    "Taser Gun": "https://i.postimg.cc/fRP9m81w/Taser-Gun.png"
+    "Modd-coin": {
+      "icon": "https://i.postimg.cc/sxMpr8L8/Modd-coin.png",
+      "width": 6,
+      "height": 6
+    },
+    "Mystic Crystal": {
+      "icon": "https://i.postimg.cc/gJ5j70zY/gem.png",
+      "width": 8,
+      "height": 8
+    },
+    "Dark Shield": {
+      "icon": "https://i.postimg.cc/Wph5Cpmx/Dark-Shield.png",
+      "width": 10,
+      "height": 10
+    },
+    "Wings": {
+      "icon": "https://i.postimg.cc/F1XR9nk8/Wings.png",
+      "width": 12,
+      "height": 8
+    },
+    "Wings Flying": {
+      "icon": "https://i.postimg.cc/F1XR9nk8/Wings.png",
+      "width": 12,
+      "height": 8
+    },
+    "Lawn Mower": {
+      "icon": "https://i.postimg.cc/fy2gHchj/Lawn-Mower.png",
+      "width": 10,
+      "height": 8
+    },
+    "Remote Controller": {
+      "icon": "https://i.postimg.cc/cH9QPZFw/Remote-Controller.png",
+      "width": 8,
+      "height": 6
+    },
+    "Crossbow": {
+      "icon": "https://i.postimg.cc/vHTK4NWP/Crossbow.png",
+      "width": 10,
+      "height": 8
+    },
+    "Baseball Bat": {
+      "icon": "https://i.postimg.cc/bwnzVLsY/Baseball-Bat.png",
+      "width": 10,
+      "height": 4,
+      "rotate": true
+    },
+    "Big Point Item": {
+      "icon": "https://i.postimg.cc/c42xcP15/Big-Point-Item.png",
+      "width": 6,
+      "height": 6
+    },
+    "Blood Staff": {
+      "icon": "https://i.postimg.cc/tCYRW9bx/Blood-Staff.png",
+      "width": 8,
+      "height": 12
+    },
+    "Blowdart": {
+      "icon": "https://i.postimg.cc/h4CPXfkn/Blow-Dart.png",
+      "width": 8,
+      "height": 4,
+      "rotate": true
+    },
+    "Broom": {
+      "icon": "https://i.postimg.cc/yxrVtbmx/Broom.png",
+      "width": 10,
+      "height": 4,
+      "rotate": true
+    },
+    "Crowbar": {
+      "icon": "https://i.postimg.cc/C5Khvgf9/Crowbar.png",
+      "width": 8,
+      "height": 4,
+      "rotate": true
+    },
+    "Cupid's Bow": {
+      "icon": "https://i.postimg.cc/HxzW4xjQ/Cupid-s-Bow.png",
+      "width": 12,
+      "height": 10
+    },
+    "Dev Drumstick": {
+      "icon": "https://i.postimg.cc/B64QKDZS/Dev-Drumstick.png",
+      "width": 8,
+      "height": 10
+    },
+    "Drumstick": {
+      "icon": "https://i.postimg.cc/Zqr5njSs/Drumstick.png",
+      "width": 8,
+      "height": 10
+    },
+    "Dynamite": {
+      "icon": "https://i.postimg.cc/XYBJS4Db/Dynamite.png",
+      "width": 6,
+      "height": 10
+    },
+    "Fart Gun": {
+      "icon": "https://i.postimg.cc/wTGvG722/Fart-Gun.png",
+      "width": 10,
+      "height": 6
+    },
+    "Free Point Item": {
+      "icon": "https://i.postimg.cc/qMRqw8sg/Free-Point-Item.png",
+      "width": 6,
+      "height": 6
+    },
+    "Glock": {
+      "icon": "https://i.postimg.cc/gc4r3M6f/Glock.png",
+      "width": 6,
+      "height": 8
+    },
+    "Golden Drumstick": {
+      "icon": "https://i.postimg.cc/3NLR7RTK/Golden-Drumstick.png",
+      "width": 8,
+      "height": 10
+    },
+    "Grenade": {
+      "icon": "https://i.postimg.cc/T12wZbB7/Grenade.png",
+      "width": 8,
+      "height": 8
+    },
+    "Hot Potato Gun": {
+      "icon": "https://i.postimg.cc/63fqjcb4/Hot-Potato-Gun.png",
+      "width": 10,
+      "height": 8
+    },
+    "Katana": {
+      "icon": "https://i.postimg.cc/mDshyJjG/Katana.png",
+      "width": 10,
+      "height": 3,
+      "rotate": true
+    },
+    "Mod Hammer": {
+      "icon": "https://i.postimg.cc/pd8p8RDZ/Mod-Hammer.png",
+      "width": 10,
+      "height": 8
+    },
+    "Mystic Crowbar": {
+      "icon": "https://i.postimg.cc/bw4Zss2r/Mystic-Crowbar.png",
+      "width": 8,
+      "height": 4,
+      "rotate": true
+    },
+    "Pill": {
+      "icon": "https://i.postimg.cc/kX16PjJx/Pill.png",
+      "width": 6,
+      "height": 8
+    },
+    "Potato Gun": {
+      "icon": "https://i.postimg.cc/2S1qk4yg/Potato-Gun.png",
+      "width": 10,
+      "height": 6
+    },
+    "Rare Ancient Spear": {
+      "icon": "https://i.postimg.cc/4NN7MCgf/Rare-Ancient-Spear.png",
+      "width": 12,
+      "height": 4,
+      "rotate": true
+    },
+    "Rare Swordfish": {
+      "icon": "https://i.postimg.cc/L4VgN9GQ/Rare-Swordfish.png",
+      "width": 12,
+      "height": 8
+    },
+    "Shotgun": {
+      "icon": "https://i.postimg.cc/d3JkwpZ9/Shotgun.png",
+      "width": 12,
+      "height": 4
+    },
+    "SLAP": {
+      "icon": "https://i.postimg.cc/RhG3Fdcx/SLAP.png",
+      "width": 12,
+      "height": 10
+    },
+    "Spear": {
+      "icon": "https://i.postimg.cc/TwV58f1w/Spear.png",
+      "width": 12,
+      "height": 4,
+      "rotate": true
+    },
+    "Stacked Dynamite": {
+      "icon": "https://i.postimg.cc/JhBBqbWj/Stacked-Dynamite.png",
+      "width": 8,
+      "height": 10
+    },
+    "Stick": {
+      "icon": "https://i.postimg.cc/NMq2P5gS/Stick.png",
+      "width": 8,
+      "height": 4,
+      "rotate": true
+    },
+    "Swordfish": {
+      "icon": "https://i.postimg.cc/nhrmXyRR/Swordfish.png",
+      "width": 10,
+      "height": 6
+    },
+    "Taser Gun": {
+      "icon": "https://i.postimg.cc/fRP9m81w/Taser-Gun.png",
+      "width": 10,
+      "height": 6
+    }
   },
   "units": {
-    "MyUnit": "https://i.postimg.cc/FKjTztLV/human.png",
-    "Shopkeeper": "https://i.postimg.cc/FssRMJYL/Shopkeeper.png",
-    "Wizard": "https://i.postimg.cc/V64kHYWw/Wizard.png",
-    "Human": "https://i.postimg.cc/FKjTztLV/human.png",
-    "Sick": "https://i.postimg.cc/9f3xcXrf/sick.png",
-    "Zombie": "https://i.postimg.cc/Vk0Gy0sT/normal-zombie.png",
-    "Zombie King": "https://i.postimg.cc/4NSLFQGV/zombie-king.png",
-    "Mutated Zombie": "https://i.postimg.cc/ydsvSfh4/tonic-zombie.png"
+    "MyUnit": {
+      "icon": "https://i.postimg.cc/FKjTztLV/human.png",
+      "width": 12,
+      "height": 12
+    },
+    "Shopkeeper": {
+      "icon": "https://i.postimg.cc/FssRMJYL/Shopkeeper.png",
+      "width": 16,
+      "height": 16
+    },
+    "Wizard": {
+      "icon": "https://i.postimg.cc/V64kHYWw/Wizard.png",
+      "width": 16,
+      "height": 16
+    },
+    "Human": {
+      "icon": "https://i.postimg.cc/FKjTztLV/human.png",
+      "width": 12,
+      "height": 12
+    },
+    "Sick": {
+      "icon": "https://i.postimg.cc/9f3xcXrf/sick.png",
+      "width": 12,
+      "height": 12
+    },
+    "Zombie": {
+      "icon": "https://i.postimg.cc/Vk0Gy0sT/normal-zombie.png",
+      "width": 16,
+      "height": 16
+    },
+    "Zombie King": {
+      "icon": "https://i.postimg.cc/4NSLFQGV/zombie-king.png",
+      "width": 18,
+      "height": 18
+    },
+    "Mutated Zombie": {
+      "icon": "https://i.postimg.cc/ydsvSfh4/tonic-zombie.png",
+      "width": 16,
+      "height": 16
+    }
   }
 }
