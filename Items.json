@@ -209,28 +209,28 @@
     },
     "Human": {
       "icon": "https://i.postimg.cc/FKjTztLV/human.png",
-      "width": 12,
-      "height": 12
+      "width": 10,
+      "height": 10
     },
     "Sick": {
       "icon": "https://i.postimg.cc/9f3xcXrf/sick.png",
-      "width": 12,
-      "height": 12
+      "width": 10,
+      "height": 10
     },
     "Zombie": {
       "icon": "https://i.postimg.cc/Vk0Gy0sT/normal-zombie.png",
-      "width": 12,
-      "height": 12
+      "width": 10,
+      "height": 10
     },
     "Zombie King": {
       "icon": "https://i.postimg.cc/4NSLFQGV/zombie-king.png",
-      "width": 12,
-      "height": 12
+      "width": 10,
+      "height": 10
     },
     "Mutated Zombie": {
       "icon": "https://i.postimg.cc/ydsvSfh4/tonic-zombie.png",
-      "width": 12,
-      "height": 12
+      "width": 10,
+      "height": 10
     }
   }
 }
