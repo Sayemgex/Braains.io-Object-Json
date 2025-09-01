@@ -58,7 +58,7 @@
     "Blowdart": {
       "icon": "https://i.postimg.cc/h4CPXfkn/Blow-Dart.png",
       "width": 4,
-      "height": 12
+      "height": 10
     },
     "Broom": {
       "icon": "https://i.postimg.cc/yxrVtbmx/Broom.png",
@@ -72,8 +72,8 @@
     },
     "Cupid's Bow": {
       "icon": "https://i.postimg.cc/HxzW4xjQ/Cupid-s-Bow.png",
-      "width": 12,
-      "height": 15
+      "width": 15,
+      "height": 12
     },
     "Dev Drumstick": {
       "icon": "https://i.postimg.cc/B64QKDZS/Dev-Drumstick.png",
@@ -148,7 +148,7 @@
     "Rare Ancient Spear": {
       "icon": "https://i.postimg.cc/4NN7MCgf/Rare-Ancient-Spear.png",
       "width": 8,
-      "height": 22
+      "height": 25
     },
     "Rare Swordfish": {
       "icon": "https://i.postimg.cc/L4VgN9GQ/Rare-Swordfish.png",
