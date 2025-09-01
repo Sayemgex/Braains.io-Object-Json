@@ -194,8 +194,8 @@
   "units": {
     "MyUnit": {
       "icon": "https://i.postimg.cc/FKjTztLV/human.png",
-      "width": 12,
-      "height": 12
+      "width": 16,
+      "height": 16
     },
     "Shopkeeper": {
       "icon": "https://i.postimg.cc/FssRMJYL/Shopkeeper.png",
