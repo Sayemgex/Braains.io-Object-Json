@@ -2,8 +2,8 @@
   "specialItems": {
     "Modd-coin": {
       "icon": "https://i.postimg.cc/sxMpr8L8/Modd-coin.png",
-      "width": 13,
-      "height": 13
+      "width": 12,
+      "height": 12
     },
     "Mystic Crystal": {
       "icon": "https://i.postimg.cc/gJ5j70zY/gem.png",
@@ -28,7 +28,7 @@
     "Lawn Mower": {
       "icon": "https://i.postimg.cc/fy2gHchj/Lawn-Mower.png",
       "width": 12,
-      "height": 13
+      "height": 12
     },
     "Remote Controller": {
       "icon": "https://i.postimg.cc/cH9QPZFw/Remote-Controller.png",
@@ -37,13 +37,12 @@
     },
     "Crossbow": {
       "icon": "https://i.postimg.cc/vHTK4NWP/Crossbow.png",
-      "width": 8,
-      "height": 12,
-      "rotate": false
+      "width": 11,
+      "height": 11,
     },
     "Baseball Bat": {
       "icon": "https://i.postimg.cc/bwnzVLsY/Baseball-Bat.png",
-      "width": 8,
+      "width": 5,
       "height": 12
     },
     "Big Point Item": {
