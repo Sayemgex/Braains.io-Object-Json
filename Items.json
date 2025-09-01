@@ -37,33 +37,33 @@
     },
     "Crossbow": {
       "icon": "https://i.postimg.cc/vHTK4NWP/Crossbow.png",
-      "width": 11,
+      "width": 12,
       "height": 11
     },
     "Baseball Bat": {
       "icon": "https://i.postimg.cc/bwnzVLsY/Baseball-Bat.png",
-      "width": 5,
+      "width": 4,
       "height": 12
     },
     "Big Point Item": {
       "icon": "https://i.postimg.cc/c42xcP15/Big-Point-Item.png",
-      "width": 15,
-      "height": 15
+      "width": 16,
+      "height": 16
     },
     "Blood Staff": {
       "icon": "https://i.postimg.cc/tCYRW9bx/Blood-Staff.png",
-      "width": 8,
-      "height": 12
+      "width": 9,
+      "height": 13
     },
     "Blowdart": {
       "icon": "https://i.postimg.cc/h4CPXfkn/Blow-Dart.png",
-      "width": 8,
+      "width": 4,
       "height": 12
     },
     "Broom": {
       "icon": "https://i.postimg.cc/yxrVtbmx/Broom.png",
       "width": 10,
-      "height": 12
+      "height": 13
     },
     "Crowbar": {
       "icon": "https://i.postimg.cc/C5Khvgf9/Crowbar.png",
@@ -72,7 +72,7 @@
     },
     "Cupid's Bow": {
       "icon": "https://i.postimg.cc/HxzW4xjQ/Cupid-s-Bow.png",
-      "width": 13,
+      "width": 12,
       "height": 15
     },
     "Dev Drumstick": {
@@ -147,18 +147,18 @@
     },
     "Rare Ancient Spear": {
       "icon": "https://i.postimg.cc/4NN7MCgf/Rare-Ancient-Spear.png",
-      "width": 10,
-      "height": 20
+      "width": 8,
+      "height": 22
     },
     "Rare Swordfish": {
       "icon": "https://i.postimg.cc/L4VgN9GQ/Rare-Swordfish.png",
-      "width": 16,
-      "height": 22
+      "width": 14,
+      "height": 20
     },
     "Shotgun": {
       "icon": "https://i.postimg.cc/d3JkwpZ9/Shotgun.png",
-      "width": 8,
-      "height": 14
+      "width": 6,
+      "height": 13
     },
     "SLAP": {
       "icon": "https://i.postimg.cc/RhG3Fdcx/SLAP.png",
@@ -177,13 +177,13 @@
     },
     "Stick": {
       "icon": "https://i.postimg.cc/NMq2P5gS/Stick.png",
-      "width": 7,
+      "width": 8,
       "height": 10
     },
     "Swordfish": {
       "icon": "https://i.postimg.cc/nhrmXyRR/Swordfish.png",
-      "width": 10,
-      "height": 14
+      "width": 9,
+      "height": 15
     },
     "Taser Gun": {
       "icon": "https://i.postimg.cc/fRP9m81w/Taser-Gun.png",
