@@ -2,12 +2,12 @@
   "specialItems": {
     "Modd-coin": {
       "icon": "https://i.postimg.cc/sxMpr8L8/Modd-coin.png",
-      "width": 12,
-      "height": 12
+      "width": 13,
+      "height": 13
     },
     "Mystic Crystal": {
       "icon": "https://i.postimg.cc/gJ5j70zY/gem.png",
-      "width": 10,
+      "width": 9,
       "height": 12
     },
     "Dark Shield": {
@@ -28,7 +28,7 @@
     "Lawn Mower": {
       "icon": "https://i.postimg.cc/fy2gHchj/Lawn-Mower.png",
       "width": 12,
-      "height": 15
+      "height": 13
     },
     "Remote Controller": {
       "icon": "https://i.postimg.cc/cH9QPZFw/Remote-Controller.png",
@@ -38,18 +38,18 @@
     "Crossbow": {
       "icon": "https://i.postimg.cc/vHTK4NWP/Crossbow.png",
       "width": 8,
-      "height": 12
+      "height": 12,
+      "rotate": false
     },
     "Baseball Bat": {
       "icon": "https://i.postimg.cc/bwnzVLsY/Baseball-Bat.png",
       "width": 8,
       "height": 12,
-      "rotate": true
     },
     "Big Point Item": {
       "icon": "https://i.postimg.cc/c42xcP15/Big-Point-Item.png",
-      "width": 12,
-      "height": 12
+      "width": 15,
+      "height": 15
     },
     "Blood Staff": {
       "icon": "https://i.postimg.cc/tCYRW9bx/Blood-Staff.png",
@@ -60,33 +60,30 @@
       "icon": "https://i.postimg.cc/h4CPXfkn/Blow-Dart.png",
       "width": 8,
       "height": 12,
-      "rotate": true
     },
     "Broom": {
       "icon": "https://i.postimg.cc/yxrVtbmx/Broom.png",
       "width": 10,
       "height": 12,
-      "rotate": true
     },
     "Crowbar": {
       "icon": "https://i.postimg.cc/C5Khvgf9/Crowbar.png",
       "width": 8,
       "height": 12,
-      "rotate": true
     },
     "Cupid's Bow": {
       "icon": "https://i.postimg.cc/HxzW4xjQ/Cupid-s-Bow.png",
-      "width": 12,
-      "height": 12
+      "width": 13,
+      "height": 15
     },
     "Dev Drumstick": {
       "icon": "https://i.postimg.cc/B64QKDZS/Dev-Drumstick.png",
-      "width": 15,
+      "width": 20,
       "height": 20
     },
     "Drumstick": {
       "icon": "https://i.postimg.cc/Zqr5njSs/Drumstick.png",
-      "width": 9,
+      "width": 12,
       "height": 12
     },
     "Dynamite": {
@@ -96,7 +93,7 @@
     },
     "Fart Gun": {
       "icon": "https://i.postimg.cc/wTGvG722/Fart-Gun.png",
-      "width": 8,
+      "width": 7,
       "height": 12
     },
     "Free Point Item": {
@@ -106,12 +103,12 @@
     },
     "Glock": {
       "icon": "https://i.postimg.cc/gc4r3M6f/Glock.png",
-      "width": 7,
-      "height": 11
+      "width": 5,
+      "height": 13
     },
     "Golden Drumstick": {
       "icon": "https://i.postimg.cc/3NLR7RTK/Golden-Drumstick.png",
-      "width": 10,
+      "width": 14,
       "height": 14
     },
     "Grenade": {
@@ -126,9 +123,8 @@
     },
     "Katana": {
       "icon": "https://i.postimg.cc/mDshyJjG/Katana.png",
-      "width": 9,
-      "height": 13,
-      "rotate": true
+      "width": 8,
+      "height": 12,
     },
     "Mod Hammer": {
       "icon": "https://i.postimg.cc/pd8p8RDZ/Mod-Hammer.png",
@@ -137,9 +133,8 @@
     },
     "Mystic Crowbar": {
       "icon": "https://i.postimg.cc/bw4Zss2r/Mystic-Crowbar.png",
-      "width": 10,
+      "width": 8,
       "height": 12,
-      "rotate": true
     },
     "Pill": {
       "icon": "https://i.postimg.cc/kX16PjJx/Pill.png",
@@ -153,19 +148,18 @@
     },
     "Rare Ancient Spear": {
       "icon": "https://i.postimg.cc/4NN7MCgf/Rare-Ancient-Spear.png",
-      "width": 12,
+      "width": 10,
       "height": 20,
-      "rotate": true
     },
     "Rare Swordfish": {
       "icon": "https://i.postimg.cc/L4VgN9GQ/Rare-Swordfish.png",
-      "width": 15,
-      "height": 20
+      "width": 16,
+      "height": 22
     },
     "Shotgun": {
       "icon": "https://i.postimg.cc/d3JkwpZ9/Shotgun.png",
-      "width": 9,
-      "height": 13
+      "width": 8,
+      "height": 14
     },
     "SLAP": {
       "icon": "https://i.postimg.cc/RhG3Fdcx/SLAP.png",
@@ -174,29 +168,27 @@
     },
     "Spear": {
       "icon": "https://i.postimg.cc/TwV58f1w/Spear.png",
-      "width": 9,
+      "width": 5,
       "height": 16,
-      "rotate": true
     },
     "Stacked Dynamite": {
       "icon": "https://i.postimg.cc/JhBBqbWj/Stacked-Dynamite.png",
-      "width": 12,
+      "width": 10,
       "height": 12
     },
     "Stick": {
       "icon": "https://i.postimg.cc/NMq2P5gS/Stick.png",
       "width": 7,
       "height": 10,
-      "rotate": true
     },
     "Swordfish": {
       "icon": "https://i.postimg.cc/nhrmXyRR/Swordfish.png",
-      "width": 9,
-      "height": 12
+      "width": 10,
+      "height": 14
     },
     "Taser Gun": {
       "icon": "https://i.postimg.cc/fRP9m81w/Taser-Gun.png",
-      "width": 6,
+      "width": 5,
       "height": 10
     }
   },
