@@ -193,7 +193,7 @@
   },
   "units": {
     "MyUnit": {
-      "icon": "https://i.postimg.cc/8CJ3TKMx/OldMan.png",
+      "icon": "https://i.postimg.cc/FKjTztLV/human.png",
       "width": 16,
       "height": 16
     },
@@ -208,7 +208,7 @@
       "height": 16
     },
     "Human": {
-      "icon": "https://i.postimg.cc/8CJ3TKMx/OldMan.png",
+      "icon": "https://i.postimg.cc/FKjTztLV/human.png",
       "width": 10,
       "height": 10
     },
