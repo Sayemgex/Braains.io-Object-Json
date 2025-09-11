@@ -117,7 +117,7 @@
     },
     "Hot Potato Gun": {
       "icon": "https://i.postimg.cc/63fqjcb4/Hot-Potato-Gun.png",
-      "width": 6,
+      "width": 5,
       "height": 13
     },
     "Katana": {
@@ -142,7 +142,7 @@
     },
     "potatoGun": {
       "icon": "https://i.postimg.cc/2S1qk4yg/Potato-Gun.png",
-      "width": 6,
+      "width": 4,
       "height": 13
     },
     "Rare Ancient Spear": {
