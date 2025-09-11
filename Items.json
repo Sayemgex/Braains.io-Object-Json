@@ -236,8 +236,43 @@
   "projectiles": {
     "Fart": {
       "icon": "https://i.postimg.cc/7ZbXNbH0/Fart.png",
+      "width": 6,
+      "height": 6
+    },
+    "Arrow": {
+      "icon": "https://i.postimg.cc/4ykjp9bZ/Arrow.png",
+      "width": 5,
+      "height": 12
+    },
+    "Bullet": {
+      "icon": "https://i.postimg.cc/j5JGWXfZ/Bullet.png",
       "width": 4,
-      "height": 4
+      "height": 5
+    },
+    "Dart": {
+      "icon": "https://i.postimg.cc/NF6SDjpX/Dart.png",
+      "width": 4,
+      "height": 11
+    },
+    "Grenade": {
+      "icon": "https://i.postimg.cc/wTkns3t8/Grenade.png",
+      "width": 10,
+      "height": 10
+    },
+    "Hot Potato": {
+      "icon": "https://i.postimg.cc/vZqj3jL0/Hot-Potato.png",
+      "width": 10,
+      "height": 10
+    },
+    "Potato": {
+      "icon": "https://i.postimg.cc/KY1WVN0x/Potato.png",
+      "width": 10,
+      "height": 10
+    },
+    "Valentines Arrow": {
+      "icon": "https://i.postimg.cc/JhSFWkFJ/Valentines-Arrow.png",
+      "width": 6,
+      "height": 13
     }
   }
 }
