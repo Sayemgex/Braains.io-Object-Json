@@ -239,8 +239,8 @@
     },
     "Barrel": {
       "icon": "https://i.postimg.cc/QC4dFN7Q/Barrel.png",
-      "width": 12,
-      "height": 12
+      "width": 11,
+      "height": 11
     },
     "Bench": {
       "icon": "https://i.postimg.cc/HnsLW8rW/Bench.png",
@@ -279,8 +279,8 @@
     },
     "Blue Sofa": {
       "icon": "https://i.postimg.cc/T29L8fKY/Blue-Sofa.png",
-      "width": 16,
-      "height": 10
+      "width": 17,
+      "height": 9
     },
     "Blue Truck": {
       "icon": "https://i.postimg.cc/DywWnHGQ/Blue-Truck.png",
@@ -294,13 +294,13 @@
     },
     "Couch": {
       "icon": "https://i.postimg.cc/C5FRZ6Qg/Couch.png",
-      "width": 10,
-      "height": 10
+      "width": 9,
+      "height": 9
     },
     "Furniture": {
       "icon": "https://i.postimg.cc/DZQWwK56/Furniture.png",
-      "width": 10,
-      "height": 10
+      "width": 9,
+      "height": 9
     },
     "Furniture 2": {
       "icon": "https://i.postimg.cc/fLQtsb7k/Furniture-2.png",
@@ -309,13 +309,13 @@
     },
     "Furniture 3": {
       "icon": "https://i.postimg.cc/fb9t1d96/Furniture-3.png",
-      "width": 10,
-      "height": 10
+      "width": 9,
+      "height": 9
     },
     "Furniture 4": {
       "icon": "https://i.postimg.cc/9QSwxbrd/Furniture-4.png",
-      "width": 10,
-      "height": 10
+      "width": 9,
+      "height": 9
     },
     "Furniture 5": {
       "icon": "https://i.postimg.cc/MpXjbNKZ/Furniture-5.png",
@@ -344,8 +344,8 @@
     },
     "Poop": {
       "icon": "https://i.postimg.cc/6qwvrQTF/Poop.png",
-      "width": 10,
-      "height": 10
+      "width": 9,
+      "height": 9
     },
     "Santa Sleigh": {
       "icon": "https://i.postimg.cc/xCLmNmjK/Santa-Sleigh.png",
@@ -359,47 +359,47 @@
     },
     "Small Box": {
       "icon": "https://i.postimg.cc/fbtmZF6q/Small-Box.png",
-      "width": 10,
-      "height": 10
+      "width": 9,
+      "height": 9
     },
     "Small Chair": {
       "icon": "https://i.postimg.cc/8znM2Dnr/Small-Chair.png",
-      "width": 11,
-      "height": 11
+      "width": 10,
+      "height": 10
     },
     "Small Chair 2": {
       "icon": "https://i.postimg.cc/CxKbrdJg/Small-Chair-2.png",
-      "width": 11,
-      "height": 11
+      "width": 10,
+      "height": 10
     },
     "Small Table": {
       "icon": "https://i.postimg.cc/TY0rcnV0/Small-Table.png",
-      "width": 12,
-      "height": 12
+      "width": 8,
+      "height": 8
     },
     "Small Tree": {
       "icon": "https://i.postimg.cc/RV47fgHq/Small-Tree.png",
-      "width": 10,
-      "height": 10
+      "width": 9,
+      "height": 9
     },
     "Small Tree 2": {
       "icon": "https://i.postimg.cc/T2rjpzhZ/Small-Tree-2.png",
-      "width": 10,
-      "height": 10
+      "width": 9,
+      "height": 9
     },
     "Small TV": {
       "icon": "https://i.postimg.cc/kGFWzbkn/Small-TV.png",
-      "width": 10,
-      "height": 11
+      "width": 9,
+      "height": 10
     },
     "Sofa": {
       "icon": "https://i.postimg.cc/FzQjTZCW/Sofa.png",
-      "width": 18,
+      "width": 17,
       "height": 10
     },
     "Tank": {
       "icon": "https://i.postimg.cc/wBZ5mHXd/Tank.png",
-      "width": 16,
+      "width": 14,
       "height": 8
     },
     "Toaster": {
