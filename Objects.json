@@ -362,6 +362,11 @@
       "width": 9,
       "height": 9
     },
+    "Medium Box": {
+      "icon": "https://i.postimg.cc/fbtmZF6q/Small-Box.png",
+      "width": 12,
+      "height": 12
+    },
     "Big Box": {
       "icon": "https://i.postimg.cc/fbtmZF6q/Small-Box.png",
       "width": 15,
