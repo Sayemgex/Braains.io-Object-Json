@@ -292,6 +292,11 @@
       "width": 10,
       "height": 10
     },
+    "Big Table": {
+      "icon": "https://i.postimg.cc/QdTtk5Gy/Big-Table.png",
+      "width": 10,
+      "height": 10
+    },
     "Couch": {
       "icon": "https://i.postimg.cc/C5FRZ6Qg/Couch.png",
       "width": 9,
@@ -353,6 +358,11 @@
       "height": 28
     },
     "Small Bed": {
+      "icon": "https://i.postimg.cc/PqgZqyHX/Small-Bed.png",
+      "width": 11,
+      "height": 18
+    },
+    "Bed": {
       "icon": "https://i.postimg.cc/PqgZqyHX/Small-Bed.png",
       "width": 9,
       "height": 17
