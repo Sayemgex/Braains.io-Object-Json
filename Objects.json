@@ -245,7 +245,7 @@
     "Bench": {
       "icon": "https://i.postimg.cc/HnsLW8rW/Bench.png",
       "width": 18,
-      "height": 10
+      "height": 8
     },
     "Black Couch": {
       "icon": "https://i.postimg.cc/MTYT8mKr/Black-Couch.png",
@@ -259,27 +259,27 @@
     },
     "Blood Box": {
       "icon": "https://i.postimg.cc/CKk5cgy0/Blood-Box.png",
-      "width": 5,
-      "height": 5
+      "width": 4,
+      "height": 4
     },
     "Blood Box Med": {
       "icon": "https://i.postimg.cc/fR6k7br5/Blood-Box-Med.png",
-      "width": 7,
-      "height": 7
+      "width": 5,
+      "height": 5
     },
     "Blood Prints": {
       "icon": "https://i.postimg.cc/jSWLJfZL/Blood-Prints.png",
-      "width": 16,
-      "height": 16
+      "width": 12,
+      "height": 12
     },
     "Blue Bed": {
       "icon": "https://i.postimg.cc/8PX754d2/Blue-Bed.png",
-      "width": 10,
-      "height": 18
+      "width": 9,
+      "height": 17
     },
     "Blue Sofa": {
       "icon": "https://i.postimg.cc/T29L8fKY/Blue-Sofa.png",
-      "width": 18,
+      "width": 16,
       "height": 10
     },
     "Blue Truck": {
@@ -289,18 +289,18 @@
     },
     "Clothed Table": {
       "icon": "https://i.postimg.cc/1XJfDckN/Clothed-Table.png",
-      "width": 16,
-      "height": 16
+      "width": 10,
+      "height": 10
     },
     "Couch": {
       "icon": "https://i.postimg.cc/C5FRZ6Qg/Couch.png",
-      "width": 12,
-      "height": 12
+      "width": 10,
+      "height": 10
     },
     "Furniture": {
       "icon": "https://i.postimg.cc/DZQWwK56/Furniture.png",
-      "width": 12,
-      "height": 12
+      "width": 10,
+      "height": 10
     },
     "Furniture 2": {
       "icon": "https://i.postimg.cc/fLQtsb7k/Furniture-2.png",
@@ -309,17 +309,17 @@
     },
     "Furniture 3": {
       "icon": "https://i.postimg.cc/fb9t1d96/Furniture-3.png",
-      "width": 12,
-      "height": 12
+      "width": 10,
+      "height": 10
     },
     "Furniture 4": {
       "icon": "https://i.postimg.cc/9QSwxbrd/Furniture-4.png",
-      "width": 12,
-      "height": 12
+      "width": 10,
+      "height": 10
     },
     "Furniture 5": {
       "icon": "https://i.postimg.cc/MpXjbNKZ/Furniture-5.png",
-      "width": 18,
+      "width": 17,
       "height": 10
     },
     "Green Bed": {
@@ -329,8 +329,8 @@
     },
     "Green Sofa": {
       "icon": "https://i.postimg.cc/YqrFjj5W/Green-Sofa.png",
-      "width": 18,
-      "height": 10
+      "width": 20,
+      "height": 8
     },
     "House Plant": {
       "icon": "https://i.postimg.cc/mZNMb754/House-Plant.png",
@@ -339,13 +339,13 @@
     },
     "Spectator": {
       "icon": "https://i.postimg.cc/XY8yw55W/hidden.png",
-      "width": 14,
-      "height": 14
+      "width": 12,
+      "height": 12
     },
     "Poop": {
       "icon": "https://i.postimg.cc/6qwvrQTF/Poop.png",
-      "width": 12,
-      "height": 12
+      "width": 10,
+      "height": 10
     },
     "Santa Sleigh": {
       "icon": "https://i.postimg.cc/xCLmNmjK/Santa-Sleigh.png",
@@ -354,23 +354,23 @@
     },
     "Small Bed": {
       "icon": "https://i.postimg.cc/PqgZqyHX/Small-Bed.png",
-      "width": 11,
+      "width": 9,
       "height": 17
     },
     "Small Box": {
       "icon": "https://i.postimg.cc/fbtmZF6q/Small-Box.png",
-      "width": 12,
-      "height": 12
+      "width": 10,
+      "height": 10
     },
     "Small Chair": {
       "icon": "https://i.postimg.cc/8znM2Dnr/Small-Chair.png",
-      "width": 12,
-      "height": 12
+      "width": 11,
+      "height": 11
     },
     "Small Chair 2": {
       "icon": "https://i.postimg.cc/CxKbrdJg/Small-Chair-2.png",
-      "width": 12,
-      "height": 12
+      "width": 11,
+      "height": 11
     },
     "Small Table": {
       "icon": "https://i.postimg.cc/TY0rcnV0/Small-Table.png",
@@ -379,18 +379,18 @@
     },
     "Small Tree": {
       "icon": "https://i.postimg.cc/RV47fgHq/Small-Tree.png",
-      "width": 12,
-      "height": 12
+      "width": 10,
+      "height": 10
     },
     "Small Tree 2": {
       "icon": "https://i.postimg.cc/T2rjpzhZ/Small-Tree-2.png",
-      "width": 12,
-      "height": 12
+      "width": 10,
+      "height": 10
     },
     "Small TV": {
       "icon": "https://i.postimg.cc/kGFWzbkn/Small-TV.png",
       "width": 10,
-      "height": 10
+      "height": 11
     },
     "Sofa": {
       "icon": "https://i.postimg.cc/FzQjTZCW/Sofa.png",
@@ -409,23 +409,23 @@
     },
     "Toilet": {
       "icon": "https://i.postimg.cc/Jz7QwprS/Toilet.png",
-      "width": 10,
-      "height": 10
+      "width": 9,
+      "height": 9
     },
     "Toilet Sink": {
       "icon": "https://i.postimg.cc/cLDBdf6C/Toilet-Sink.png",
-      "width": 12,
-      "height": 12
+      "width": 9,
+      "height": 9
     },
     "TV": {
       "icon": "https://i.postimg.cc/5NSmkhVw/TV.png",
       "width": 18,
-      "height": 8
+      "height": 10
     },
     "Yellow Car": {
       "icon": "https://i.postimg.cc/GhCQKcZL/Yellow-Car.png",
       "width": 20,
-      "height": 28
+      "height": 26
     }
   },
   "projectiles": {
