@@ -239,8 +239,8 @@
     },
     "Barrel": {
       "icon": "https://i.postimg.cc/QC4dFN7Q/Barrel.png",
-      "width": 16,
-      "height": 16
+      "width": 4,
+      "height": 4
     },
     "Bench": {
       "icon": "https://i.postimg.cc/HnsLW8rW/Bench.png",
@@ -338,7 +338,7 @@
       "height": 16
     },
     "Spectator": {
-      "icon": "https://i.postimg.cc/JnKkQLJn/hacker.png",
+      "icon": "https://i.postimg.cc/kXr2tsBz/hidden.png",
       "width": 16,
       "height": 16
     },
