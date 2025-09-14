@@ -362,6 +362,11 @@
       "width": 9,
       "height": 9
     },
+    "Big Box": {
+      "icon": "https://i.postimg.cc/fbtmZF6q/Small-Box.png",
+      "width": 15,
+      "height": 15
+    },
     "Small Chair": {
       "icon": "https://i.postimg.cc/8znM2Dnr/Small-Chair.png",
       "width": 10,
