@@ -325,7 +325,7 @@
     "Castle Table": {
       "icon": "https://i.postimg.cc/kG7QW71N/Castle-Table.png",
       "width": 12,
-      "height": 12
+      "height": 17
     },
     "Castle Tank": {
       "icon": "https://i.postimg.cc/1XyGDyCr/Castle-Tank.png",
@@ -413,9 +413,9 @@
       "height": 8
     },
     "Medium Table": {
-      "icon": "https://i.postimg.cc/kG7QW71N/Castle-Table.png",
-      "width": 11,
-      "height": 17
+      "icon": "https://i.postimg.cc/QdTtk5Gy/Big-Table.png",
+      "width": 10,
+      "height": 16
     },
     "Spectator": {
       "icon": "https://i.postimg.cc/XY8yw55W/hidden.png",
