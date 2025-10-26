@@ -249,8 +249,8 @@
     },
     "Barrel2": {
       "icon": "https://i.postimg.cc/B6T58jgc/Barrel2.png",
-      "width": 11,
-      "height": 11
+      "width": 9,
+      "height": 9
     },
     "Bench": {
       "icon": "https://i.postimg.cc/HnsLW8rW/Bench.png",
@@ -299,8 +299,8 @@
     },
     "Broken Cage": {
       "icon": "https://i.postimg.cc/Y96N4v36/Broken-Cage.png",
-      "width": 12,
-      "height": 12
+      "width": 18,
+      "height": 9
     },
     "Castle Chair": {
       "icon": "https://i.postimg.cc/NM68yK48/Castle-Chair.png",
@@ -359,8 +359,8 @@
     },
     "Dark Knight AI": {
       "icon": "https://i.postimg.cc/VvzqXzGK/Dark-Knight-AI.png",
-      "width": 12,
-      "height": 12
+      "width": 30,
+      "height": 30
     },
     "Empty Cage": {
       "icon": "https://i.postimg.cc/L5mtjmCC/Empty-Cage.png",
@@ -409,8 +409,8 @@
     },
     "Human Skull": {
       "icon": "https://i.postimg.cc/2yCQnCcM/Human-Skull.png",
-      "width": 9,
-      "height": 9
+      "width": 7,
+      "height": 7
     },
     "Jungle Log": {
       "icon": "https://i.postimg.cc/x89vL9x4/Jungle-Log.png",
