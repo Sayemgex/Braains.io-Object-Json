@@ -314,8 +314,8 @@
     },
     "Castle Small Box": {
       "icon": "https://i.postimg.cc/3N3X23Sm/Castle-Small-Box.png",
-      "width": 10,
-      "height": 10
+      "width": 9,
+      "height": 9
     },
     "Castle Sofa": {
       "icon": "https://i.postimg.cc/NFQ6RQJX/Castle-Sofa.png",
@@ -334,8 +334,8 @@
     },
     "Chest": {
       "icon": "https://i.postimg.cc/yx7m07Qv/Chest.png",
-      "width": 11,
-      "height": 11
+      "width": 15,
+      "height": 9
     },
     "Clothed Table": {
       "icon": "https://i.postimg.cc/1XJfDckN/Clothed-Table.png",
@@ -359,8 +359,8 @@
     },
     "Empty Cage": {
       "icon": "https://i.postimg.cc/L5mtjmCC/Empty-Cage.png",
-      "width": 12,
-      "height": 12
+      "width": 10,
+      "height": 10
     },
     "Furniture": {
       "icon": "https://i.postimg.cc/DZQWwK56/Furniture.png",
@@ -409,13 +409,13 @@
     },
     "Jungle Log": {
       "icon": "https://i.postimg.cc/x89vL9x4/Jungle-Log.png",
-      "width": 14,
-      "height": 9
+      "width": 20,
+      "height": 8
     },
     "Medium Table": {
       "icon": "https://i.postimg.cc/kG7QW71N/Castle-Table.png",
-      "width": 12,
-      "height": 12
+      "width": 11,
+      "height": 17
     },
     "Spectator": {
       "icon": "https://i.postimg.cc/XY8yw55W/hidden.png",
