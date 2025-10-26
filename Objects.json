@@ -202,8 +202,8 @@
     },
     "Candy": {
       "icon": "https://i.postimg.cc/RFC4B4rg/Candy.png",
-      "width": 12,
-      "height": 12
+      "width": 10,
+      "height": 10
     },
     "Ghost Drumstick": {
       "icon": "https://i.postimg.cc/mDZBsBxw/Ghost-Drumstick.png",
@@ -449,8 +449,8 @@
     },
     "Human Skull": {
       "icon": "https://i.postimg.cc/2yCQnCcM/Human-Skull.png",
-      "width": 6,
-      "height": 6
+      "width": 8,
+      "height": 8
     },
     "Jungle Log": {
       "icon": "https://i.postimg.cc/x89vL9x4/Jungle-Log.png",
