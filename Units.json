@@ -1,1 +1,407 @@
-
+{
+  "units": {
+    "MyUnit": {
+      "unitType": "human",
+      "icon": "https://i.postimg.cc/FKjTztLV/human.png",
+      "width": 16,
+      "height": 16
+    },
+    "Shopkeeper": {
+      "unitType": "DFbINcHMZr",
+      "icon": "https://i.postimg.cc/FssRMJYL/Shopkeeper.png",
+      "width": 13,
+      "height": 13
+    },
+    "Wizard": {
+      "unitType": "x9ga5Ck8R1",
+      "icon": "https://i.postimg.cc/V64kHYWw/Wizard.png",
+      "width": 13,
+      "height": 13
+    },
+    "Human": {
+      "unitType": "human",
+      "icon": "https://i.postimg.cc/FKjTztLV/human.png",
+      "width": 10,
+      "height": 10
+    },
+    "Sick": {
+      "unitType": "sick",
+      "icon": "https://i.postimg.cc/9f3xcXrf/sick.png",
+      "width": 10,
+      "height": 10
+    },
+    "Zombie": {
+      "unitType": "zombie",
+      "icon": "https://i.postimg.cc/Vk0Gy0sT/normal-zombie.png",
+      "width": 10,
+      "height": 10
+    },
+    "Zombie King": {
+      "unitType": "zombieKing",
+      "icon": "https://i.postimg.cc/4NSLFQGV/zombie-king.png",
+      "width": 10,
+      "height": 10
+    },
+    "Mutated Zombie": {
+      "unitType": "0oDaWUo6j6",
+      "icon": "https://i.postimg.cc/ydsvSfh4/tonic-zombie.png",
+      "width": 10,
+      "height": 10
+    },
+    "Airdrop": {
+      "unitType": "jqadJhnMzn",
+      "icon": "https://i.postimg.cc/59n07grX/Airdrop.png",
+      "width": 16,
+      "height": 16
+    },
+    "Barrel": {
+      "unitType": "pidFSD3UGm",
+      "icon": "https://i.postimg.cc/QC4dFN7Q/Barrel.png",
+      "width": 11,
+      "height": 11
+    },
+    "Barrel2": {
+      "unitType": "IjY9nCKG6e",
+      "icon": "https://i.postimg.cc/B6T58jgc/Barrel2.png",
+      "width": 9,
+      "height": 9
+    },
+    "Bench": {
+      "unitType": "Cwxk5cAWoc",
+      "icon": "https://i.postimg.cc/HnsLW8rW/Bench.png",
+      "width": 18,
+      "height": 8
+    },
+    "Black Couch": {
+      "unitType": "ibeMph9ph9",
+      "icon": "https://i.postimg.cc/MTYT8mKr/Black-Couch.png",
+      "width": 10,
+      "height": 10
+    },
+    "Black Sofa": {
+      "unitType": "GGsbG6YegP",
+      "icon": "https://i.postimg.cc/hjnjw5gd/Black-Sofa.png",
+      "width": 18,
+      "height": 8
+    },
+    "Blood Box": {
+      "unitType": "8rjVe1Ly5l",
+      "icon": "https://i.postimg.cc/CKk5cgy0/Blood-Box.png",
+      "width": 4,
+      "height": 4
+    },
+    "Blood Box-Med": {
+      "unitType": "ERWwLHCFWg",
+      "icon": "https://i.postimg.cc/fR6k7br5/Blood-Box-Med.png",
+      "width": 5,
+      "height": 5
+    },
+    "Blood Prints": {
+      "unitType": "2IuOQwfWrJ",
+      "icon": "https://i.postimg.cc/jSWLJfZL/Blood-Prints.png",
+      "width": 12,
+      "height": 12
+    },
+    "Blue Bed": {
+      "unitType": "VNXie3v1Va",
+      "icon": "https://i.postimg.cc/8PX754d2/Blue-Bed.png",
+      "width": 9,
+      "height": 17
+    },
+    "Blue Sofa": {
+      "unitType": "rzfnZMante",
+      "icon": "https://i.postimg.cc/T29L8fKY/Blue-Sofa.png",
+      "width": 17,
+      "height": 9
+    },
+    "Blue Truck": {
+      "unitType": "Bz0sn6Lr2P",
+      "icon": "https://i.postimg.cc/DywWnHGQ/Blue-Truck.png",
+      "width": 18,
+      "height": 28
+    },
+    "Broken Cage": {
+      "unitType": "mBl5Mc8glI",
+      "icon": "https://i.postimg.cc/Y96N4v36/Broken-Cage.png",
+      "width": 16,
+      "height": 8
+    },
+    "Castle Chair": {
+      "unitType": "RUCz0bj9To",
+      "icon": "https://i.postimg.cc/NM68yK48/Castle-Chair.png",
+      "width": 10,
+      "height": 10
+    },
+    "Castle Couch": {
+      "unitType": "l5lZhk9DpR",
+      "icon": "https://i.postimg.cc/T1TVnT7D/Castle-Couch.png",
+      "width": 9,
+      "height": 9
+    },
+    "Castle Furniture": {
+      "unitType": "GuU4i7QBwj",
+      "icon": "https://i.postimg.cc/SRm6cmTz/Castle-Furniture.png",
+      "width": 16,
+      "height": 8
+    },
+    "Castle Small Box": {
+      "unitType": "rB3Pfgc6FN",
+      "icon": "https://i.postimg.cc/3N3X23Sm/Castle-Small-Box.png",
+      "width": 9,
+      "height": 9
+    },
+    "Castle Sofa": {
+      "unitType": "53jv6VBwMn",
+      "icon": "https://i.postimg.cc/NFQ6RQJX/Castle-Sofa.png",
+      "width": 18,
+      "height": 9
+    },
+    "Castle Table": {
+      "unitType": "yLrQVyXjcm",
+      "icon": "https://i.postimg.cc/kG7QW71N/Castle-Table.png",
+      "width": 12,
+      "height": 17
+    },
+    "Castle Tank": {
+      "unitType": "TnEImVwMTo",
+      "icon": "https://i.postimg.cc/1XyGDyCr/Castle-Tank.png",
+      "width": 14,
+      "height": 8
+    },
+    "Chest": {
+      "unitType": "Wt4QbzBSX3",
+      "icon": "https://i.postimg.cc/yx7m07Qv/Chest.png",
+      "width": 14,
+      "height": 8
+    },
+    "Clothed Table": {
+      "unitType": "Mw10zNvHyn",
+      "icon": "https://i.postimg.cc/1XJfDckN/Clothed-Table.png",
+      "width": 9,
+      "height": 10
+    },
+    "Big Table": {
+      "icon": "https://i.postimg.cc/QdTtk5Gy/Big-Table.png",
+      "width": 15,
+      "height": 28
+    },
+    "Couch": {
+      "icon": "https://i.postimg.cc/C5FRZ6Qg/Couch.png",
+      "width": 9,
+      "height": 9
+    },
+    "Dark Knight AI": {
+      "unitType": "rp8TT1yt81",
+      "icon": "https://i.postimg.cc/VvzqXzGK/Dark-Knight-AI.png",
+      "width": 22,
+      "height": 22
+    },
+    "Empty Cage": {
+      "unitType": "yUIeyPEuBA",
+      "icon": "https://i.postimg.cc/L5mtjmCC/Empty-Cage.png",
+      "width": 8,
+      "height": 8
+    },
+    "Furniture": {
+      "unitType": "Qt6O5vQ73S",
+      "icon": "https://i.postimg.cc/DZQWwK56/Furniture.png",
+      "width": 9,
+      "height": 9
+    },
+    "Furniture 2": {
+      "unitType": "r236N2dMT8",
+      "icon": "https://i.postimg.cc/fLQtsb7k/Furniture-2.png",
+      "width": 18,
+      "height": 10
+    },
+    "Furniture 3": {
+      "unitType": "ZfLHg1Eobv",
+      "icon": "https://i.postimg.cc/fb9t1d96/Furniture-3.png",
+      "width": 9,
+      "height": 9
+    },
+    "Furniture 4": {
+      "unitType": "2WmiURJyvA",
+      "icon": "https://i.postimg.cc/9QSwxbrd/Furniture-4.png",
+      "width": 9,
+      "height": 9
+    },
+    "Furniture 5": {
+      "icon": "https://i.postimg.cc/MpXjbNKZ/Furniture-5.png",
+      "width": 17,
+      "height": 10
+    },
+    "Green Bed": {
+      "unitType": "pBQNswWWlN",
+      "icon": "https://i.postimg.cc/X7sC54WD/Green-Bed.png",
+      "width": 11,
+      "height": 18
+    },
+    "Green Sofa": {
+      "unitType": "hVUbSMbweH",
+      "icon": "https://i.postimg.cc/YqrFjj5W/Green-Sofa.png",
+      "width": 20,
+      "height": 8
+    },
+    "House Plant": {
+      "unitType": "2VcqTujggv",
+      "icon": "https://i.postimg.cc/mZNMb754/House-Plant.png",
+      "width": 10,
+      "height": 10
+    },
+    "Human Skull": {
+      "unitType": "cDa1OmS0eH",
+      "icon": "https://i.postimg.cc/2yCQnCcM/Human-Skull.png",
+      "width": 8,
+      "height": 8
+    },
+    "Jungle Log": {
+      "unitType": "6IcjF1ffS1",
+      "icon": "https://i.postimg.cc/x89vL9x4/Jungle-Log.png",
+      "width": 18,
+      "height": 7
+    },
+    "Medium Table": {
+      "unitType": "FP2UYEWMEg",
+      "icon": "https://i.postimg.cc/QdTtk5Gy/Big-Table.png",
+      "width": 15,
+      "height": 8
+    },
+    "Spectator": {
+      "unitType": "YeSdVwoKp5",
+      "icon": "https://i.postimg.cc/XY8yw55W/hidden.png",
+      "width": 12,
+      "height": 12
+    },
+    "Poop": {
+      "unitType": "8jLpAyS8V6",
+      "icon": "https://i.postimg.cc/6qwvrQTF/Poop.png",
+      "width": 7,
+      "height": 7
+    },
+    "Santa Sleigh": {
+      "unitType": "HNUXXPJRo5",
+      "icon": "https://i.postimg.cc/xCLmNmjK/Santa-Sleigh.png",
+      "width": 18,
+      "height": 28
+    },
+    "Small Bed": {
+      "icon": "https://i.postimg.cc/PqgZqyHX/Small-Bed.png",
+      "width": 7,
+      "height": 16
+    },
+    "Bed": {
+      "unitType": "4Jb9mSFEnw",
+      "icon": "https://i.postimg.cc/PqgZqyHX/Small-Bed.png",
+      "width": 9,
+      "height": 17
+    },
+    "Small Box": {
+      "unitType": "ifytvLoTQe",
+      "icon": "https://i.postimg.cc/fbtmZF6q/Small-Box.png",
+      "width": 9,
+      "height": 9
+    },
+    "Medium Box": {
+      "unitType": "iUM1f0LSjz",
+      "icon": "https://i.postimg.cc/fbtmZF6q/Small-Box.png",
+      "width": 11,
+      "height": 11
+    },
+    "Big Box": {
+      "unitType": "bFJ5AYBzS2",
+      "icon": "https://i.postimg.cc/fbtmZF6q/Small-Box.png",
+      "width": 15,
+      "height": 15
+    },
+    "Small Chair": {
+      "unitType": "VuEqdaWrK6",
+      "icon": "https://i.postimg.cc/8znM2Dnr/Small-Chair.png",
+      "width": 10,
+      "height": 10
+    },
+    "Small Chair 2": {
+      "unitType": "wAamODVKfP",
+      "icon": "https://i.postimg.cc/CxKbrdJg/Small-Chair-2.png",
+      "width": 10,
+      "height": 10
+    },
+    "Small Table": {
+      "unitType": "8uw3kT4jGn",
+      "icon": "https://i.postimg.cc/TY0rcnV0/Small-Table.png",
+      "width": 8,
+      "height": 8
+    },
+    "Small Tree": {
+      "unitType": "UV0TG3LUmW",
+      "icon": "https://i.postimg.cc/RV47fgHq/Small-Tree.png",
+      "width": 9,
+      "height": 9
+    },
+    "Small Tree 2": {
+      "unitType": "eOlHd4YgnY",
+      "icon": "https://i.postimg.cc/T2rjpzhZ/Small-Tree-2.png",
+      "width": 9,
+      "height": 9
+    },
+    "Small TV": {
+      "unitType": "lNYum73d8J",
+      "icon": "https://i.postimg.cc/kGFWzbkn/Small-TV.png",
+      "width": 9,
+      "height": 10
+    },
+    "Sofa": {
+      "unitType": "cWbU4TEd6z",
+      "icon": "https://i.postimg.cc/FzQjTZCW/Sofa.png",
+      "width": 17,
+      "height": 10
+    },
+    "Tank": {
+      "unitType": "tdsyBTcddN",
+      "icon": "https://i.postimg.cc/wBZ5mHXd/Tank.png",
+      "width": 14,
+      "height": 8
+    },
+    "Throne": {
+      "unitType": "0BroklfLcp",
+      "icon": "https://i.postimg.cc/GtbFvb76/Throne.png",
+      "width": 13,
+      "height": 15
+    },
+    "Toaster": {
+      "icon": "https://i.postimg.cc/mrtNkhFw/Toaster.png",
+      "width": 4,
+      "height": 4
+    },
+    "Toilet": {
+      "unitType": "qZX0VcYjwq",
+      "icon": "https://i.postimg.cc/Jz7QwprS/Toilet.png",
+      "width": 9,
+      "height": 9
+    },
+    "Toilet Sink": {
+      "unitType": "4nOXRbzNP7",
+      "icon": "https://i.postimg.cc/cLDBdf6C/Toilet-Sink.png",
+      "width": 9,
+      "height": 9
+    },
+    "Torch Light": {
+      "unitType": "sGlTADK12s",
+      "icon": "https://i.postimg.cc/XJfKZr8k/Torch-Light.png",
+      "width": 8,
+      "height": 14
+    },
+    "TV": {
+      "unitType": "aj3m9Ndol9",
+      "icon": "https://i.postimg.cc/5NSmkhVw/TV.png",
+      "width": 17,
+      "height": 11
+    },
+    "Yellow Car": {
+      "unitType": "EqSYv0SPOw",
+      "icon": "https://i.postimg.cc/GhCQKcZL/Yellow-Car.png",
+      "width": 20,
+      "height": 26
+    }
+  }
+}
