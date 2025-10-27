@@ -116,6 +116,7 @@
       "height": 11
     },
     "Hot Potato Gun": {
+      "itemId": "zwAoerFxEw",
       "icon": "https://i.postimg.cc/63fqjcb4/Hot-Potato-Gun.png",
       "width": 5,
       "height": 15
@@ -146,6 +147,7 @@
       "height": 8
     },
     "potatoGun": {
+      "itemId": "potatoGun",
       "icon": "https://i.postimg.cc/2S1qk4yg/Potato-Gun.png",
       "width": 5,
       "height": 14
@@ -196,11 +198,13 @@
       "height": 10
     },
     "Tonic Zombie Potion": {
+      "itemId": "g2XpxVVdEp",
       "icon": "https://i.postimg.cc/c48PLSgP/Tonic-Zombie-Potion.png",
       "width": 5,
       "height": 10
     },
     "Bone Fish": {
+      "itemId": "cAa37MC5GW",
       "icon": "https://i.postimg.cc/PxfTjTG2/Bone-Fish.png",
       "width": 9,
       "height": 15
@@ -221,11 +225,13 @@
       "height": 12
     },
     "Spooky Crossbow": {
+      "itemId": "f9tu1nfLoh",
       "icon": "https://i.postimg.cc/xCsYjhYM/Spooky-Crossbow.png",
       "width": 12,
       "height": 11
     },
     "Spooky Crowbar": {
+      "itemId": "wc3VOrFj3i",
       "icon": "https://i.postimg.cc/vBPM8kMW/Spooky-Crowbar.png",
       "width": 8,
       "height": 12
@@ -241,6 +247,7 @@
       "height": 14
     },
     "Spooky Shotgun": {
+      "itemId": "dZiBrGMVbr",
       "icon": "https://i.postimg.cc/G2Mr3Vrj/Spooky-Shotgun.png",
       "width": 6,
       "height": 13
