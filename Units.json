@@ -7,7 +7,7 @@
       "height": 16
     },
     "Shopkeeper": {
-      "unitType": "DFbINcHMZr",
+      "unitType": ["DFbINcHMZr", "Qc3SIDxQVW"],
       "icon": "https://i.postimg.cc/FssRMJYL/Shopkeeper.png",
       "width": 13,
       "height": 13
@@ -268,7 +268,7 @@
       "height": 8
     },
     "Spectator": {
-      "unitType": "YeSdVwoKp5",
+      "unitType": ["YeSdVwoKp5", "FMIxlXIOmc"],
       "icon": "https://i.postimg.cc/XY8yw55W/hidden.png",
       "width": 12,
       "height": 12
