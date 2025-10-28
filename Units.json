@@ -231,8 +231,8 @@
     "Furniture 5": {
       "unitType": "r236N2dMT8",
       "icon": "https://i.postimg.cc/MpXjbNKZ/Furniture-5.png",
-      "width": 17,
-      "height": 10
+      "width": 16,
+      "height": 8
     },
     "Green Bed": {
       "unitType": "pBQNswWWlN",
@@ -297,8 +297,8 @@
     "Bed": {
       "unitType": "4Jb9mSFEnw",
       "icon": "https://i.postimg.cc/PqgZqyHX/Small-Bed.png",
-      "width": 9,
-      "height": 17
+      "width": 11,
+      "height": 18
     },
     "Small Box": {
       "unitType": "ifytvLoTQe",
@@ -376,7 +376,7 @@
       "unitType": "jAaa0d8bpB",
       "icon": "https://i.postimg.cc/mrtNkhFw/Toaster.png",
       "width": 8,
-      "height": 8
+      "height": 6
     },
     "Toilet": {
       "unitType": "qZX0VcYjwq",
