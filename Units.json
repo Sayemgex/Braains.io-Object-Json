@@ -403,6 +403,11 @@
       "icon": "https://i.postimg.cc/GhCQKcZL/Yellow-Car.png",
       "width": 20,
       "height": 26
+    },
+    "Invisible": {
+      "icon": "https://i.postimg.cc/htGrJx67/Invisible.png",
+      "width": 0,
+      "height": 0
     }
   }
 }
