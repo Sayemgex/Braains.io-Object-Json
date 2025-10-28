@@ -175,17 +175,19 @@
       "height": 8
     },
     "Clothed Table": {
-      "unitType": "Mw10zNvHyn",
+      "unitType": "zg0q9XdijH",
       "icon": "https://i.postimg.cc/1XJfDckN/Clothed-Table.png",
       "width": 9,
       "height": 10
     },
     "Big Table": {
+      "unitType": "Mw10zNvHyn",
       "icon": "https://i.postimg.cc/QdTtk5Gy/Big-Table.png",
       "width": 15,
       "height": 28
     },
     "Couch": {
+      "unitType": "lNYum73d8J",
       "icon": "https://i.postimg.cc/C5FRZ6Qg/Couch.png",
       "width": 9,
       "height": 9
@@ -227,6 +229,7 @@
       "height": 9
     },
     "Furniture 5": {
+      "unitType": "r236N2dMT8",
       "icon": "https://i.postimg.cc/MpXjbNKZ/Furniture-5.png",
       "width": 17,
       "height": 10
@@ -286,6 +289,7 @@
       "height": 28
     },
     "Small Bed": {
+      "unitType": "UNt1XIGGLN",
       "icon": "https://i.postimg.cc/PqgZqyHX/Small-Bed.png",
       "width": 7,
       "height": 16
@@ -345,7 +349,7 @@
       "height": 9
     },
     "Small TV": {
-      "unitType": "lNYum73d8J",
+      "unitType": "50i0ayiUUP",
       "icon": "https://i.postimg.cc/kGFWzbkn/Small-TV.png",
       "width": 9,
       "height": 10
