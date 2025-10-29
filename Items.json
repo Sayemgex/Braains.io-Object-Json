@@ -251,6 +251,12 @@
       "icon": "https://i.postimg.cc/G2Mr3Vrj/Spooky-Shotgun.png",
       "width": 6,
       "height": 13
+    },
+    "The Spooky Cloak": {
+      "itemId": "PyrFdp103w",
+      "icon": "https://i.postimg.cc/kX4mh3CP/The-Spooky-Cloak.png",
+      "width": 10,
+      "height": 10
     }
   }
 }
